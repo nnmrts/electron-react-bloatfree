@@ -171,7 +171,7 @@
 		"devtron": "^1.4.0",
 		"electron-debug": "^3.0.1",
 		"electron-log": "^3.0.6",
-		"electron-updater": "^4.1.2",
+		"electron-updater": "^6.3.0",
 		"react": "^16.6.3",
 		"react-dom": "^16.6.3",
 		"react-hot-loader": "^4.3.12",
